@@ -19,7 +19,7 @@ L'infrastructure actuelle couvre principalement le rez-de-chaussée et s'articul
 Tout le câblage de l'étage est d'ores et déjà prêt, mais l'étage n'est pas encore relié au réseau actif en raison du budget actuel. 
 Les prochaines interventions prévues à la maison sont :
 *   L'installation et le sertissage des fiches RJ45 sur les câbles en attente.
-*   L'achat et l'installation d'un switch alimenté en PoE (Power over Ethernet) pour relier les étages.
+*   L'achat et l'installation d'un switch alimenté en PoE pour relier les étages.
 *   La mise en service et l'administration de cette nouvelle extension depuis la console.
 
 ---
