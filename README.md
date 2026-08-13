@@ -1,3 +1,34 @@
+🇬🇧 **English**
+
+# Home Network Infrastructure - "Charrin" Project
+
+## About this project
+This repository documents the design, physical installation, and administration of my first complete network infrastructure. Deployed in my grandmother's house, the goal of this project is to concretely demonstrate my technical skills, ranging from cable pulling to network configuration. The project is named "Charrin".
+
+## Architecture and Hardware (Phase 1)
+The current infrastructure mainly covers the ground floor and is built around the Ubiquiti UniFi ecosystem.
+
+*   **Internet Service Provider (ISP):** Orange (Fiber optic) via a Livebox.
+*   **Router / Controller:** Ubiquiti UniFi Cloud Gateway Ultra (UCG-Ultra).
+*   **WiFi Access Point:** 1x Ubiquiti UniFi U6+.
+
+## Completed Work (Current State)
+*   **Core network setup:** Installation and configuration of the Cloud Gateway Ultra, plugged directly into the Livebox.
+*   **WiFi Deployment:** Installation of the U6+ access point to cover the ground floor.
+*   **Structured cabling:** Pulling all Ethernet cables through the house to the upper floor to prepare for the future network extension.
+
+## Next steps (Phase 2)
+All the cabling for the upper floor is already prepared, but the floor is not yet connected to the active network due to the current budget. 
+The next planned interventions at the house are:
+*   Installing and crimping the RJ45 keystones on the pending cables.
+*   Purchasing and installing a PoE-powered switch to connect the floors.
+*   Commissioning and administering this new extension from the console.
+
+---
+*Note: Photos of the cable installation, mounting boxes, and simulated WiFi coverage maps (2.4 GHz and 5 GHz) complete this repository to illustrate the progress of the work.*
+
+🇫🇷 **Français**
+
 # Home Network Infrastructure - Projet "Charrin"
 
 ## À propos de ce projet
